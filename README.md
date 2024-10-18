@@ -1,6 +1,6 @@
-# K6 Load Testing a Random Number API
+# K6 Load Testing Playground
 
-This repository contains a simple Express-based API that returns a random number between 1 and 10, along with a load testing setup using the [K6 load testing tool](https://k6.io/). The purpose of this project is to demonstrate basic API functionality and how to perform load testing with K6.
+This repository contains a simple Express-based API that returns a random number between 1 and 10, along with a load testing setup using the [K6 load testing tool](https://k6.io/). The purpose of this project is to demonstrate basic functionalities of k6 and how to perform load testing with this tool.
 
 ## Prerequisites
 
