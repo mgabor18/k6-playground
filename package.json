@@ -1,0 +1,22 @@
+{
+  "name": "k6-playground",
+  "version": "1.0.0",
+  "description": "k6 tool evaluation and playground",
+  "scripts": {
+    "start": "npx run example/api/index.js",
+    "test": "k6 run k6/test.js",
+    "test:report": "cross-env K6_WEB_DASHBOARD=true K6_WEB_DASHBOARD_EXPORT=reports/k6-report.html npm run test"
+  },
+  "keywords": [
+    "k6",
+    "load",
+    "testing",
+    "javascript"
+  ],
+  "author": "Gabor Marton",
+  "license": "ISC",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "express": "^4.21.1"
+  }
+}
