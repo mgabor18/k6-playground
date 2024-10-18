@@ -23,7 +23,7 @@ For more information, refer to the official [K6 installation guide](https://graf
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/k6-playground.git
+git clone https://github.com/mgabor18/k6-playground.git
 cd k6-playground
 ```
 
