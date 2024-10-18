@@ -99,4 +99,4 @@ with the help of these environment variables, reports can be generated.
 
 `npm run test`: Runs the K6 load test on the `/random` endpoint.
 
-`npm run test:report`: Runs the K6 load test on the `/random` endpoint and generate report.
+`npm run test:report`: Runs the K6 load test on the `/random` endpoint and generates a report.
